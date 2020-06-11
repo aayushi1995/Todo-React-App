@@ -1,0 +1,73 @@
+$tablet-width: 768px;
+
+.todoWrapper{
+    padding: 10px;
+    margin: 10px 0px;
+    box-shadow: 5px 4px 10px 0px #dadada;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    .title {
+        width:80vw;
+        font-size:20px;
+        color:rgb(80, 78, 78);
+
+
+        .editSectionWrapper {
+            display: flex;
+
+
+            input[type="text"]{
+                border: none;
+                font-size: 18px;
+                width: 80%;
+                border-bottom: 1px solid grey;
+            }
+            input[type="text"]:focus {
+                outline: none;
+            }
+            button {
+                margin: 0px 20px;
+                font-size: 20px;
+                color:white;
+                padding: 5px 10px;
+                background-color: green;
+                border: none;
+                border-radius: 5px;
+            }
+        }
+    }
+    .completetion_status_checkbox{
+        width:2vw;
+    }
+    .actions {
+        width:10vw;
+
+        & button{
+            background: none;
+            border:none;
+            padding:5px;
+        }
+
+        & button:focus{
+            outline:none;
+        }
+        & button:hover{
+            cursor: pointer;
+            background-color: #ececec;
+        }
+    }
+}
+
+
+@media (max-width: $tablet-width) {
+    .todoWrapper{ 
+        .completetion_status_checkbox{
+            width:10vw;
+        }
+        .title {
+            width:80vw;
+        }
+    }
+}

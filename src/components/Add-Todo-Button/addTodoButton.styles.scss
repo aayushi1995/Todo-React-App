@@ -1,0 +1,17 @@
+.addTodoButton {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+    width: 20vw;
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.addTodoButton:hover {
+    background-color: #2ca136;
+}
+.addTodoButton:focus{
+    outline: none;
+} 

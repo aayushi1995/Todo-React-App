@@ -1,0 +1,14 @@
+$tablet-width: 768px;
+
+@media (max-width: $tablet-width) {
+    .todo-container {
+        padding: 10px;
+    }
+}
+@media (min-width: $tablet-width+1) {
+    .todo-container {
+        padding: 10vw;
+    }
+}
+
+
