@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Todo-React-App/static/css/main.38759f63.chunk.css",
+    "main.js": "/Todo-React-App/static/js/main.59d1d58d.chunk.js",
+    "main.js.map": "/Todo-React-App/static/js/main.59d1d58d.chunk.js.map",
+    "runtime-main.js": "/Todo-React-App/static/js/runtime-main.2b7c98bd.js",
+    "runtime-main.js.map": "/Todo-React-App/static/js/runtime-main.2b7c98bd.js.map",
+    "static/js/2.5158276e.chunk.js": "/Todo-React-App/static/js/2.5158276e.chunk.js",
+    "static/js/2.5158276e.chunk.js.map": "/Todo-React-App/static/js/2.5158276e.chunk.js.map",
+    "index.html": "/Todo-React-App/index.html",
+    "precache-manifest.e0a0ec2309020b76c9b79f7b2bde37cc.js": "/Todo-React-App/precache-manifest.e0a0ec2309020b76c9b79f7b2bde37cc.js",
+    "service-worker.js": "/Todo-React-App/service-worker.js",
+    "static/css/main.38759f63.chunk.css.map": "/Todo-React-App/static/css/main.38759f63.chunk.css.map",
+    "static/js/2.5158276e.chunk.js.LICENSE.txt": "/Todo-React-App/static/js/2.5158276e.chunk.js.LICENSE.txt",
+    "static/media/delete.47cd84b4.svg": "/Todo-React-App/static/media/delete.47cd84b4.svg",
+    "static/media/edit.de320fab.svg": "/Todo-React-App/static/media/edit.de320fab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b7c98bd.js",
+    "static/js/2.5158276e.chunk.js",
+    "static/css/main.38759f63.chunk.css",
+    "static/js/main.59d1d58d.chunk.js"
+  ]
+}
